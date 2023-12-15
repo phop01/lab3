@@ -1,0 +1,16 @@
+C:\lab\lab3\lab2.2\bin\Debug\net8.0-windows\lab3.exe
+C:\lab\lab3\lab2.2\bin\Debug\net8.0-windows\lab3.deps.json
+C:\lab\lab3\lab2.2\bin\Debug\net8.0-windows\lab3.runtimeconfig.json
+C:\lab\lab3\lab2.2\bin\Debug\net8.0-windows\lab3.dll
+C:\lab\lab3\lab2.2\bin\Debug\net8.0-windows\lab3.pdb
+C:\lab\lab3\lab2.2\obj\Debug\net8.0-windows\lab2._2.Form1.resources
+C:\lab\lab3\lab2.2\obj\Debug\net8.0-windows\lab3.csproj.GenerateResource.cache
+C:\lab\lab3\lab2.2\obj\Debug\net8.0-windows\lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\lab\lab3\lab2.2\obj\Debug\net8.0-windows\lab3.AssemblyInfoInputs.cache
+C:\lab\lab3\lab2.2\obj\Debug\net8.0-windows\lab3.AssemblyInfo.cs
+C:\lab\lab3\lab2.2\obj\Debug\net8.0-windows\lab3.csproj.CoreCompileInputs.cache
+C:\lab\lab3\lab2.2\obj\Debug\net8.0-windows\lab3.dll
+C:\lab\lab3\lab2.2\obj\Debug\net8.0-windows\refint\lab3.dll
+C:\lab\lab3\lab2.2\obj\Debug\net8.0-windows\lab3.pdb
+C:\lab\lab3\lab2.2\obj\Debug\net8.0-windows\lab3.genruntimeconfig.cache
+C:\lab\lab3\lab2.2\obj\Debug\net8.0-windows\ref\lab3.dll
